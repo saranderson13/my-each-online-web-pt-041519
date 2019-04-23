@@ -7,4 +7,5 @@ def my_each(array)
   end
   
   array
+  binding.pry
 end
